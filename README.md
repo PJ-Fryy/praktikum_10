@@ -1,4 +1,4 @@
-[praktikum_10](https://www.google.com)
+[praktikum_10](https://pj-fryy.github.io/praktikum_10/)
 ===
 **version 0.1**
 
